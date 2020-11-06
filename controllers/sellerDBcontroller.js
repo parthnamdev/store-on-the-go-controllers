@@ -70,4 +70,3 @@ const deleteUser = (req, res) => {
         }
     })
 }
-
